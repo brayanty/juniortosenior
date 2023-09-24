@@ -1,0 +1,15 @@
+.botton{
+    border: 50%;
+    border-radius: 50px;
+    padding: 7px;
+    margin: 2px;
+
+    background-color: rgb(89, 0, 255);
+    color: #ffffff;
+    text-decoration: none;
+    transition: all  2s  ;
+}
+.botton:hover{
+    background-color: aqua;
+    color: red;
+}
